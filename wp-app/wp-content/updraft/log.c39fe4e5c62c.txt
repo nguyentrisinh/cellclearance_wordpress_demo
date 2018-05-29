@@ -1,0 +1,459 @@
+0000.001 (0) Opened log file at time: Mon, 28 May 2018 09:26:53 +0000 on http://localhost:8091/NewWooCommerce
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.11 WP: 4.9.6 PHP: 7.2.5 (apache2handler, Windows NT DESKTOP-SOSSAL0 10.0 build 16299 (Windows 10) i586) MySQL: 5.5.5 WPLANG: en_US Server: Apache/2.4.33 (Win32) OpenSSL/1.1.0h PHP/7.2.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 59.9M | 20M) multisite: N openssl: OpenSSL 1.1.0h  27 Mar 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.010 (0) Free space on disk containing Updraft's temporary directory: 184822.2 MB
+0000.023 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.026 (0) Semaphore (fd, wp_options) being initialised
+0000.034 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.045 (0) Set semaphore last lock (fd) time to 2018-05-28 09:26:53
+0000.048 (0) Semaphore lock (fd) complete
+0000.056 (0) Backup run: resumption=0, nonce=c39fe4e5c62c, begun at=1527499613 (0s ago), job type=backup
+0000.061 (0) Scheduling a resumption (1) after 300 seconds (1527499913) in case this run gets aborted
+0000.075 (0) Checking if we have a zip executable available
+0000.086 (0) Creation of backups of directories: beginning
+0000.100 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.368 (0) Total entities for the zip file: 1151 directories, 8128 files (0 skipped as non-modified), 117.8 MB
+0003.379 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0004.566 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 100 files added (on-disk size: 197.1 KB)
+0006.622 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.6 MB, 183 (184) files added so far); re-opening (prior size: 197.1 KB)
+0009.389 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 2 (186) files added so far); re-opening (prior size: 1350.2 KB)
+0011.723 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 200 files added (on-disk size: 1375.1 KB)
+0012.209 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.9 MB, 90 (276) files added so far); re-opening (prior size: 1375.1 KB)
+0014.438 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 300 files added (on-disk size: 1986.7 KB)
+0014.717 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 400 files added (on-disk size: 1986.7 KB)
+0015.216 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.3 MB, 164 (440) files added so far); re-opening (prior size: 1986.7 KB)
+0017.476 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 500 files added (on-disk size: 4683.9 KB)
+0019.217 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5 MB, 88 (528) files added so far); re-opening (prior size: 4683.9 KB)
+0020.973 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 600 files added (on-disk size: 6586.7 KB)
+0021.570 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 700 files added (on-disk size: 6586.7 KB)
+0022.212 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6 MB, 222 (750) files added so far); re-opening (prior size: 6586.7 KB)
+0023.295 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 800 files added (on-disk size: 8414.8 KB)
+0023.994 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 900 files added (on-disk size: 8414.8 KB)
+0025.038 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 1000 files added (on-disk size: 8414.8 KB)
+0025.213 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 272 (1022) files added so far); re-opening (prior size: 8414.8 KB)
+0026.267 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 1100 files added (on-disk size: 8768.5 KB)
+0026.973 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 1200 files added (on-disk size: 8768.5 KB)
+0027.465 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 1300 files added (on-disk size: 8768.5 KB)
+0028.212 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 353 (1375) files added so far); re-opening (prior size: 8768.5 KB)
+0028.952 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 1400 files added (on-disk size: 10016.2 KB)
+0029.606 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 1500 files added (on-disk size: 10016.2 KB)
+0030.522 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 1600 files added (on-disk size: 10016.2 KB)
+0031.210 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 263 (1638) files added so far); re-opening (prior size: 10016.2 KB)
+0033.006 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 1700 files added (on-disk size: 10402.6 KB)
+0034.211 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.9 MB, 147 (1785) files added so far); re-opening (prior size: 10402.6 KB)
+0034.880 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 1800 files added (on-disk size: 11076.1 KB)
+0036.077 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 1900 files added (on-disk size: 11076.1 KB)
+0037.210 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.9 MB, 203 (1988) files added so far); re-opening (prior size: 11076.1 KB)
+0038.568 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 2000 files added (on-disk size: 12718.5 KB)
+0040.227 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 2100 files added (on-disk size: 12718.5 KB)
+0040.982 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 2200 files added (on-disk size: 12718.5 KB)
+0041.208 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.1 MB, 237 (2225) files added so far); re-opening (prior size: 12718.5 KB)
+0042.868 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 2300 files added (on-disk size: 14724.3 KB)
+0043.865 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 2400 files added (on-disk size: 14724.3 KB)
+0044.218 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.1 MB, 206 (2431) files added so far); re-opening (prior size: 14724.3 KB)
+0045.492 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 2500 files added (on-disk size: 15686 KB)
+0046.336 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 2600 files added (on-disk size: 15686 KB)
+0047.337 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 206 (2637) files added so far); re-opening (prior size: 15686 KB)
+0048.409 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 2700 files added (on-disk size: 15960.4 KB)
+0048.724 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 2800 files added (on-disk size: 15960.4 KB)
+0049.015 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 2900 files added (on-disk size: 15960.4 KB)
+0049.301 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 3000 files added (on-disk size: 15960.4 KB)
+0049.493 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 3100 files added (on-disk size: 15960.4 KB)
+0049.554 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.3 MB, 8128 files batched, 501 (3138) added so far); re-opening (prior size: 15960.4 KB)
+0050.055 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 3200 files added (on-disk size: 18627.4 KB)
+0050.553 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 3300 files added (on-disk size: 18627.4 KB)
+0052.536 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 184 (3322) files added so far); re-opening (prior size: 18627.4 KB)
+0055.364 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 10 (3332) files added so far); re-opening (prior size: 20599.7 KB)
+0058.239 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 5 (3337) files added so far); re-opening (prior size: 20658.4 KB)
+0058.907 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 3400 files added (on-disk size: 20723.7 KB)
+0059.481 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 3500 files added (on-disk size: 20723.7 KB)
+0060.080 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 3600 files added (on-disk size: 20723.7 KB)
+0060.714 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 3700 files added (on-disk size: 20723.7 KB)
+0061.212 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.7 MB, 414 (3751) files added so far); re-opening (prior size: 20723.7 KB)
+0062.362 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 3800 files added (on-disk size: 21996.9 KB)
+0063.245 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 3900 files added (on-disk size: 21996.9 KB)
+0064.123 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 4000 files added (on-disk size: 21996.9 KB)
+0064.215 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 259 (4010) files added so far); re-opening (prior size: 21996.9 KB)
+0066.227 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 4100 files added (on-disk size: 22940 KB)
+0066.849 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 4200 files added (on-disk size: 22940 KB)
+0067.211 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 248 (4258) files added so far); re-opening (prior size: 22940 KB)
+0067.785 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 4300 files added (on-disk size: 23134.1 KB)
+0068.383 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 4400 files added (on-disk size: 23134.1 KB)
+0069.057 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 4500 files added (on-disk size: 23134.1 KB)
+0069.630 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 4600 files added (on-disk size: 23134.1 KB)
+0070.211 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 438 (4696) files added so far); re-opening (prior size: 23134.1 KB)
+0070.568 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 4700 files added (on-disk size: 23316.8 KB)
+0071.453 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 4800 files added (on-disk size: 23316.8 KB)
+0072.475 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 4900 files added (on-disk size: 23316.8 KB)
+0073.215 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.1 MB, 244 (4940) files added so far); re-opening (prior size: 23316.8 KB)
+0074.966 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 5000 files added (on-disk size: 25022.7 KB)
+0075.726 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 5100 files added (on-disk size: 25022.7 KB)
+0075.994 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 5200 files added (on-disk size: 25022.7 KB)
+0076.123 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 5300 files added (on-disk size: 25022.7 KB)
+0076.207 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.5 MB, 427 (5367) files added so far); re-opening (prior size: 25022.7 KB)
+0077.119 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 5400 files added (on-disk size: 27268.5 KB)
+0077.243 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 5500 files added (on-disk size: 27268.5 KB)
+0077.364 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 5600 files added (on-disk size: 27268.5 KB)
+0077.481 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 5700 files added (on-disk size: 27268.5 KB)
+0077.602 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 5800 files added (on-disk size: 27268.5 KB)
+0077.686 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.6 MB, 8128 files batched, 501 (5868) added so far); re-opening (prior size: 27268.5 KB)
+0079.657 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 5900 files added (on-disk size: 31378.3 KB)
+0079.788 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 6000 files added (on-disk size: 31378.3 KB)
+0079.910 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 6100 files added (on-disk size: 31378.3 KB)
+0080.033 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 6200 files added (on-disk size: 31378.3 KB)
+0080.162 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 6300 files added (on-disk size: 31378.3 KB)
+0080.250 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.3 MB, 8128 files batched, 501 (6369) added so far); re-opening (prior size: 31378.3 KB)
+0080.960 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 6400 files added (on-disk size: 32131.1 KB)
+0081.384 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 6500 files added (on-disk size: 32131.1 KB)
+0082.192 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 6600 files added (on-disk size: 32131.1 KB)
+0083.213 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.4 MB, 312 (6681) files added so far); re-opening (prior size: 32131.1 KB)
+0084.272 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 6700 files added (on-disk size: 33733.4 KB)
+0086.559 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.6 MB, 112 (6793) files added so far); re-opening (prior size: 33733.4 KB)
+0087.258 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 6800 files added (on-disk size: 34336 KB)
+0089.224 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 52 (6845) files added so far); re-opening (prior size: 34336 KB)
+0092.240 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 52 (6897) files added so far); re-opening (prior size: 34441.9 KB)
+0092.784 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 6900 files added (on-disk size: 34547.5 KB)
+0094.929 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 7000 files added (on-disk size: 34547.5 KB)
+0095.214 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 162 (7059) files added so far); re-opening (prior size: 34547.5 KB)
+0096.050 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 7100 files added (on-disk size: 35075.5 KB)
+0097.445 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 7200 files added (on-disk size: 35075.5 KB)
+0098.022 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 7300 files added (on-disk size: 35075.5 KB)
+0098.247 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 249 (7308) files added so far); re-opening (prior size: 35075.5 KB)
+0101.299 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 81 (7389) files added so far); re-opening (prior size: 35769.2 KB)
+0102.312 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 7400 files added (on-disk size: 35850.8 KB)
+0103.496 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 7500 files added (on-disk size: 35850.8 KB)
+0104.011 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 7600 files added (on-disk size: 35850.8 KB)
+0104.215 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 232 (7621) files added so far); re-opening (prior size: 35850.8 KB)
+0106.812 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 7700 files added (on-disk size: 37726.2 KB)
+0107.211 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 94 (7715) files added so far); re-opening (prior size: 37726.2 KB)
+0108.207 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 7800 files added (on-disk size: 37941.1 KB)
+0109.082 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 7900 files added (on-disk size: 37941.1 KB)
+0110.207 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.5 MB, 263 (7978) files added so far); re-opening (prior size: 37941.1 KB)
+0111.174 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 8000 files added (on-disk size: 40296 KB)
+0111.943 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip.tmp: 8100 files added (on-disk size: 40296 KB)
+0113.209 (0) Created plugins zip (0) - 40885.7 KB in 113.1 s (361.5 KB/s) (sha1: efacbc69379bf6d6217f9a121bc652c34aa077cc, sha256: 8a76be49eaf0bf50a4bc57fb1d2493099ff4c05b3e4c746bcbc1984a8eb38d81)
+0113.217 (0) Beginning creation of dump of themes (split every: 400 MB)
+0113.486 (0) Total entities for the zip file: 103 directories, 654 files (0 skipped as non-modified), 61.4 MB
+0114.784 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0115.474 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0116.216 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (17.2 MB, 252 (252) files added so far); re-opening (prior size: 0 KB)
+0119.018 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-themes.zip.tmp: 300 files added (on-disk size: 6415.9 KB)
+0119.174 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (36.1 MB, 654 files batched, 56 (308) added so far); re-opening (prior size: 6415.9 KB)
+0119.357 (0) A useful amount of data was added after this amount of zip processing: 2.2 s (normalised: 1.5 s, rate: 17192.7 KB/s)
+0119.363 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.1502730846405, normalised_time=1.4890061805461, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=105631797)
+0121.153 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-themes.zip.tmp: 400 files added (on-disk size: 43252.2 KB)
+0122.384 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 185 (493) files added so far); re-opening (prior size: 43252.2 KB)
+0123.067 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-themes.zip.tmp: 500 files added (on-disk size: 46107 KB)
+0124.668 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-themes.zip.tmp: 600 files added (on-disk size: 46107 KB)
+0125.240 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 135 (628) files added so far); re-opening (prior size: 46107 KB)
+0126.835 (0) Created themes zip (0) - 48775.1 KB in 13.6 s (3585.4 KB/s) (sha1: 2251b8f56285cd2194482d4e5ba8e4edd28881d3, sha256: 0c67ec7e5cd2d6ccd49a50d32f6d1b11bd2ee2fadc0b4a9a81a01c9836ea7830)
+0126.842 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0126.846 (0) Looking for candidates to back up in: C:\xampp\htdocs\NewWooCommerce/wp-content/uploads
+0126.849 (0) finding files: 2015: adding to list (1)
+0126.852 (0) finding files: 2017: adding to list (2)
+0126.855 (0) finding files: 2018: adding to list (3)
+0126.857 (0) finding files: GeoLite2-Country.mmdb: adding to list (4)
+0126.860 (0) finding files: js_composer: adding to list (5)
+0126.863 (0) finding files: revslider: adding to list (6)
+0126.866 (0) finding files: wc-logs: adding to list (7)
+0126.869 (0) finding files: woocommerce_uploads: adding to list (8)
+0126.871 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0128.166 (0) Total entities for the zip file: 68 directories, 3613 files (0 skipped as non-modified), 70.8 MB
+0128.331 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0128.504 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0128.697 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0128.900 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0129.067 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0129.071 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.6 MB, 3613 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0129.525 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 600 files added (on-disk size: 16040.5 KB)
+0129.744 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 700 files added (on-disk size: 16040.5 KB)
+0129.894 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 800 files added (on-disk size: 16040.5 KB)
+0130.043 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 900 files added (on-disk size: 16040.5 KB)
+0130.185 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 1000 files added (on-disk size: 16040.5 KB)
+0130.190 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.7 MB, 3613 files batched, 501 (1002) added so far); re-opening (prior size: 16040.5 KB)
+0130.739 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 1100 files added (on-disk size: 25010.8 KB)
+0130.890 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 1200 files added (on-disk size: 25010.8 KB)
+0131.034 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 1300 files added (on-disk size: 25010.8 KB)
+0131.200 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 1400 files added (on-disk size: 25010.8 KB)
+0131.380 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 1500 files added (on-disk size: 25010.8 KB)
+0131.387 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.3 MB, 3613 files batched, 501 (1503) added so far); re-opening (prior size: 25010.8 KB)
+0131.992 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 1600 files added (on-disk size: 34631.3 KB)
+0132.140 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 1700 files added (on-disk size: 34631.3 KB)
+0132.276 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 1800 files added (on-disk size: 34631.3 KB)
+0132.408 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 1900 files added (on-disk size: 34631.3 KB)
+0132.553 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 2000 files added (on-disk size: 34631.3 KB)
+0132.561 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.3 MB, 3613 files batched, 501 (2004) added so far); re-opening (prior size: 34631.3 KB)
+0133.249 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 2100 files added (on-disk size: 43165.2 KB)
+0133.403 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 2200 files added (on-disk size: 43165.2 KB)
+0133.540 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 2300 files added (on-disk size: 43165.2 KB)
+0133.674 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 2400 files added (on-disk size: 43165.2 KB)
+0133.837 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 2500 files added (on-disk size: 43165.2 KB)
+0133.848 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.7 MB, 3613 files batched, 501 (2505) added so far); re-opening (prior size: 43165.2 KB)
+0134.446 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 2600 files added (on-disk size: 52185.3 KB)
+0134.585 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 2700 files added (on-disk size: 52185.3 KB)
+0134.952 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 2800 files added (on-disk size: 52185.3 KB)
+0135.173 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 2900 files added (on-disk size: 52185.3 KB)
+0135.407 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 3000 files added (on-disk size: 52185.3 KB)
+0135.419 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.1 MB, 3613 files batched, 501 (3006) added so far); re-opening (prior size: 52185.3 KB)
+0136.071 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 3100 files added (on-disk size: 59530.8 KB)
+0136.353 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 3200 files added (on-disk size: 59530.8 KB)
+0136.614 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 3300 files added (on-disk size: 59530.8 KB)
+0136.811 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 3400 files added (on-disk size: 59530.8 KB)
+0137.022 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 3500 files added (on-disk size: 59530.8 KB)
+0137.048 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.7 MB, 3613 files batched, 501 (3507) added so far); re-opening (prior size: 59530.8 KB)
+0137.605 (0) Zip: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip.tmp: 3600 files added (on-disk size: 68539.6 KB)
+0142.324 (0) Created uploads zip (0) - 71327.3 KB in 15.4 s (4619.6 KB/s) (sha1: a941fb83a3315040f81fb3da220117f0a222e961, sha256: 9cc2f829de4ac6b359c06b934537fa40456af444e82f1b8846f74691220e7aa0)
+0142.330 (0) Beginning backup of other directories found in the content directory (index: 0)
+0142.334 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0142.336 (0) Looking for candidates to back up in: C:\xampp\htdocs\NewWooCommerce/wp-content
+0142.339 (0) finding files: index.php: adding to list (1)
+0142.342 (0) finding files: plugins: skipping: this is the plugins directory
+0142.345 (0) finding files: themes: skipping: this is the themes directory
+0142.348 (0) finding files: updraft: skipping: this is the updraft directory
+0142.350 (0) finding files: upgrade: skipping: excluded by options
+0142.357 (0) finding files: uploads: skipping: this is the uploads directory
+0142.375 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0142.415 (0) Created others zip (0) - 0.1 KB in 0 s (3.1 KB/s) (sha1: 76f91e7e5f3aa0f797d8234f4569c2faca7c44d1, sha256: 3dd5f2faa2eb1f358ce70ae1b4904fc58c06f6de62da1a960561cebd03b167cb)
+0142.427 (0) Saving backup status to database (elements: 8)
+0142.434 (0) Beginning creation of database dump (WordPress DB)
+0142.491 (0) Testing: C:\Program Files\MySQL\MySQL Workbench 6.3 CE\mysqldump.exe
+0142.657 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1205 bytes total)
+0142.678 (0) Binary mysqldump: error (code: 2)
+0142.777 (0) Testing: C:\Program Files\MySQL\MySQL Server 5.7\bin\mysqldump.exe
+0142.931 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1205 bytes total)
+0142.954 (0) Binary mysqldump: error (code: 2)
+0143.274 (0) Testing: E:\Program Files\MySQL\MySQL Workbench 6.3 CE\mysqldump.exe
+0143.450 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1205 bytes total)
+0143.475 (0) Binary mysqldump: error (code: 2)
+0143.586 (0) Testing: E:\Program Files\MySQL\MySQL Server 5.7\bin\mysqldump.exe
+0143.756 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1205 bytes total)
+0143.779 (0) Binary mysqldump: error (code: 2)
+0143.819 (0) Table wp_options: Total expected rows (approximate): 859
+0143.884 (0) Table wp_options: Total rows added: 867 in 0.06 seconds
+0143.894 (0) Table wp_options: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_options.table.gz - 136.2 KB)
+0143.911 (0) Table wp_users: Total expected rows (approximate): 0
+0143.934 (0) Table wp_users: Total rows added: 2 in 0.02 seconds
+0143.944 (0) Table wp_users: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_users.table.gz - 0.6 KB)
+0143.958 (0) Table wp_usermeta: Total expected rows (approximate): 41
+0143.978 (0) Table wp_usermeta: Total rows added: 41 in 0.02 seconds
+0143.987 (0) Table wp_usermeta: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_usermeta.table.gz - 1.7 KB)
+0144.001 (0) Table wp_commentmeta: Total expected rows (approximate): 222
+0144.023 (0) Table wp_commentmeta: Total rows added: 222 in 0.02 seconds
+0144.035 (0) Table wp_commentmeta: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_commentmeta.table.gz - 1.5 KB)
+0144.048 (0) Table wp_comments: Total expected rows (approximate): 65
+0144.071 (0) Table wp_comments: Total rows added: 65 in 0.02 seconds
+0144.079 (0) Table wp_comments: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_comments.table.gz - 2.3 KB)
+0144.096 (0) Table wp_links: Total expected rows (approximate): 0
+0144.117 (0) Table wp_links: Total rows added: 0 in 0.02 seconds
+0144.125 (0) Table wp_links: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_links.table.gz - 0.4 KB)
+0144.140 (0) Table wp_postmeta: Total expected rows (approximate): 17588
+0144.474 (0) Table wp_postmeta: Total rows added: 17757 in 0.33 seconds
+0144.487 (0) Table wp_postmeta: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_postmeta.table.gz - 133.9 KB)
+0144.502 (0) Table wp_posts: Total expected rows (approximate): 507
+0144.569 (0) Table wp_posts: Total rows added: 549 in 0.06 seconds
+0144.579 (0) Table wp_posts: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_posts.table.gz - 51.5 KB)
+0144.593 (0) Table wp_term_relationships: Total expected rows (approximate): 490
+0144.618 (0) Table wp_term_relationships: Total rows added: 481 in 0.02 seconds
+0144.628 (0) Table wp_term_relationships: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_term_relationships.table.gz - 1.6 KB)
+0144.646 (0) Table wp_term_taxonomy: Total expected rows (approximate): 95
+0144.671 (0) Table wp_term_taxonomy: Total rows added: 99 in 0.02 seconds
+0144.682 (0) Table wp_term_taxonomy: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_term_taxonomy.table.gz - 1.2 KB)
+0144.695 (0) Table wp_termmeta: Total expected rows (approximate): 224
+0144.723 (0) Table wp_termmeta: Total rows added: 224 in 0.02 seconds
+0144.733 (0) Table wp_termmeta: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_termmeta.table.gz - 1.4 KB)
+0144.749 (0) Table wp_terms: Total expected rows (approximate): 95
+0144.767 (0) Table wp_terms: Total rows added: 99 in 0.02 seconds
+0144.775 (0) Table wp_terms: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_terms.table.gz - 1.5 KB)
+0144.787 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0144.803 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.01 seconds
+0144.811 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0144.823 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0144.840 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.01 seconds
+0144.849 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0144.865 (0) Table wp_eg_grids: Total expected rows (approximate): 0
+0144.885 (0) Table wp_eg_grids: Total rows added: 0 in 0.02 seconds
+0144.893 (0) Table wp_eg_grids: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_eg_grids.table.gz - 0.4 KB)
+0144.910 (0) Table wp_eg_item_elements: Total expected rows (approximate): 0
+0144.930 (0) Table wp_eg_item_elements: Total rows added: 0 in 0.02 seconds
+0144.939 (0) Table wp_eg_item_elements: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_eg_item_elements.table.gz - 0.3 KB)
+0144.952 (0) Table wp_eg_item_skins: Total expected rows (approximate): 37
+0144.992 (0) Table wp_eg_item_skins: Total rows added: 50 in 0.04 seconds
+0145.002 (0) Table wp_eg_item_skins: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_eg_item_skins.table.gz - 22.2 KB)
+0145.015 (0) Table wp_eg_navigation_skins: Total expected rows (approximate): 8
+0145.035 (0) Table wp_eg_navigation_skins: Total rows added: 8 in 0.02 seconds
+0145.043 (0) Table wp_eg_navigation_skins: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_eg_navigation_skins.table.gz - 3.4 KB)
+0145.057 (0) Table wp_em_bookings: Total expected rows (approximate): 0
+0145.077 (0) Table wp_em_bookings: Total rows added: 0 in 0.02 seconds
+0145.085 (0) Table wp_em_bookings: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_em_bookings.table.gz - 0.5 KB)
+0145.111 (0) Table wp_em_events: Total expected rows (approximate): 0
+0145.151 (0) Table wp_em_events: Total rows added: 0 in 0.02 seconds
+0145.160 (0) Table wp_em_events: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_em_events.table.gz - 0.6 KB)
+0145.173 (0) Table wp_em_locations: Total expected rows (approximate): 0
+0145.194 (0) Table wp_em_locations: Total rows added: 0 in 0.02 seconds
+0145.202 (0) Table wp_em_locations: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_em_locations.table.gz - 0.5 KB)
+0145.216 (0) Table wp_em_meta: Total expected rows (approximate): 0
+0145.242 (0) Table wp_em_meta: Total rows added: 0 in 0.02 seconds
+0145.251 (0) Table wp_em_meta: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_em_meta.table.gz - 0.4 KB)
+0145.266 (0) Table wp_em_tickets: Total expected rows (approximate): 0
+0145.287 (0) Table wp_em_tickets: Total rows added: 0 in 0.02 seconds
+0145.297 (0) Table wp_em_tickets: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_em_tickets.table.gz - 0.4 KB)
+0145.311 (0) Table wp_em_tickets_bookings: Total expected rows (approximate): 0
+0145.330 (0) Table wp_em_tickets_bookings: Total rows added: 0 in 0.02 seconds
+0145.339 (0) Table wp_em_tickets_bookings: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_em_tickets_bookings.table.gz - 0.3 KB)
+0145.355 (0) Table wp_failed_jobs: Total expected rows (approximate): 0
+0145.377 (0) Table wp_failed_jobs: Total rows added: 0 in 0.02 seconds
+0145.387 (0) Table wp_failed_jobs: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_failed_jobs.table.gz - 0.3 KB)
+0145.401 (0) Table wp_mailchimp_carts: Total expected rows (approximate): 0
+0145.420 (0) Table wp_mailchimp_carts: Total rows added: 0 in 0.02 seconds
+0145.431 (0) Table wp_mailchimp_carts: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_mailchimp_carts.table.gz - 0.3 KB)
+0145.445 (0) Table wp_queue: Total expected rows (approximate): 0
+0145.466 (0) Table wp_queue: Total rows added: 0 in 0.02 seconds
+0145.475 (0) Table wp_queue: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_queue.table.gz - 0.3 KB)
+0145.489 (0) Table wp_revslider_css: Total expected rows (approximate): 109
+0145.519 (0) Table wp_revslider_css: Total rows added: 109 in 0.03 seconds
+0145.528 (0) Table wp_revslider_css: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_revslider_css.table.gz - 4.9 KB)
+0145.543 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 0
+0145.562 (0) Table wp_revslider_layer_animations: Total rows added: 0 in 0.02 seconds
+0145.571 (0) Table wp_revslider_layer_animations: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_revslider_layer_animations.table.gz - 0.3 KB)
+0145.583 (0) Table wp_revslider_navigations: Total expected rows (approximate): 0
+0145.601 (0) Table wp_revslider_navigations: Total rows added: 1 in 0.02 seconds
+0145.610 (0) Table wp_revslider_navigations: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_revslider_navigations.table.gz - 1.1 KB)
+0145.625 (0) Table wp_revslider_sliders: Total expected rows (approximate): 0
+0145.647 (0) Table wp_revslider_sliders: Total rows added: 1 in 0.02 seconds
+0145.656 (0) Table wp_revslider_sliders: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_revslider_sliders.table.gz - 3 KB)
+0145.670 (0) Table wp_revslider_slides: Total expected rows (approximate): 3
+0145.690 (0) Table wp_revslider_slides: Total rows added: 3 in 0.02 seconds
+0145.699 (0) Table wp_revslider_slides: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_revslider_slides.table.gz - 7.5 KB)
+0145.714 (0) Table wp_revslider_static_slides: Total expected rows (approximate): 0
+0145.735 (0) Table wp_revslider_static_slides: Total rows added: 1 in 0.02 seconds
+0145.745 (0) Table wp_revslider_static_slides: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_revslider_static_slides.table.gz - 0.4 KB)
+0145.759 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0145.778 (0) Table wp_wc_download_log: Total rows added: 0 in 0.02 seconds
+0145.785 (0) Table wp_wc_download_log: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_wc_download_log.table.gz - 0.4 KB)
+0145.800 (0) Table wp_wc_webhooks: Total expected rows (approximate): 0
+0145.822 (0) Table wp_wc_webhooks: Total rows added: 0 in 0.02 seconds
+0145.830 (0) Table wp_wc_webhooks: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_wc_webhooks.table.gz - 0.5 KB)
+0145.844 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0145.864 (0) Table wp_woocommerce_api_keys: Total rows added: 1 in 0.02 seconds
+0145.875 (0) Table wp_woocommerce_api_keys: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_api_keys.table.gz - 0.6 KB)
+0145.891 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 2
+0145.911 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 3 in 0.02 seconds
+0145.920 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.5 KB)
+0145.936 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0145.958 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.02 seconds
+0145.970 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0145.985 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0146.002 (0) Table wp_woocommerce_log: Total rows added: 0 in 0.01 seconds
+0146.014 (0) Table wp_woocommerce_log: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0146.032 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0146.054 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.02 seconds
+0146.062 (0) Table wp_woocommerce_order_items: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_order_items.table.gz - 0.3 KB)
+0146.076 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0146.103 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.02 seconds
+0146.115 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0146.134 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1
+0146.155 (0) Table wp_woocommerce_sessions: Total rows added: 1 in 0.02 seconds
+0146.164 (0) Table wp_woocommerce_sessions: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_sessions.table.gz - 1.3 KB)
+0146.179 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0146.200 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 1 in 0.02 seconds
+0146.210 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0146.224 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 2
+0146.252 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 2 in 0.02 seconds
+0146.262 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0146.278 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0146.298 (0) Table wp_woocommerce_shipping_zones: Total rows added: 1 in 0.02 seconds
+0146.308 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_shipping_zones.table.gz - 0.4 KB)
+0146.324 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0146.348 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.02 seconds
+0146.357 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0146.373 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0146.416 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.03 seconds
+0146.425 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0146.440 (0) Table wp_yith_wcwl: Total expected rows (approximate): 0
+0146.461 (0) Table wp_yith_wcwl: Total rows added: 0 in 0.02 seconds
+0146.471 (0) Table wp_yith_wcwl: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_yith_wcwl.table.gz - 0.3 KB)
+0146.486 (0) Table wp_yith_wcwl_lists: Total expected rows (approximate): 0
+0146.508 (0) Table wp_yith_wcwl_lists: Total rows added: 1 in 0.02 seconds
+0146.518 (0) Table wp_yith_wcwl_lists: finishing file (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_yith_wcwl_lists.table.gz - 0.4 KB)
+0146.531 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_options.table.gz (1/49): adding to final database dump
+0146.566 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_users.table.gz (2/49): adding to final database dump
+0146.568 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_usermeta.table.gz (3/49): adding to final database dump
+0146.573 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_commentmeta.table.gz (4/49): adding to final database dump
+0146.581 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_comments.table.gz (5/49): adding to final database dump
+0146.588 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_links.table.gz (6/49): adding to final database dump
+0146.595 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_postmeta.table.gz (7/49): adding to final database dump
+0146.660 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_posts.table.gz (8/49): adding to final database dump
+0146.677 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_term_relationships.table.gz (9/49): adding to final database dump
+0146.682 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_term_taxonomy.table.gz (10/49): adding to final database dump
+0146.685 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_termmeta.table.gz (11/49): adding to final database dump
+0146.688 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_terms.table.gz (12/49): adding to final database dump
+0146.692 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_order_itemmeta.table.gz (13/49): adding to final database dump
+0146.696 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_payment_tokenmeta.table.gz (14/49): adding to final database dump
+0146.699 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_eg_grids.table.gz (15/49): adding to final database dump
+0146.702 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_eg_item_elements.table.gz (16/49): adding to final database dump
+0146.705 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_eg_item_skins.table.gz (17/49): adding to final database dump
+0146.718 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_eg_navigation_skins.table.gz (18/49): adding to final database dump
+0146.722 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_em_bookings.table.gz (19/49): adding to final database dump
+0146.725 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_em_events.table.gz (20/49): adding to final database dump
+0146.728 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_em_locations.table.gz (21/49): adding to final database dump
+0146.732 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_em_meta.table.gz (22/49): adding to final database dump
+0146.736 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_em_tickets.table.gz (23/49): adding to final database dump
+0146.739 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_em_tickets_bookings.table.gz (24/49): adding to final database dump
+0146.742 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_failed_jobs.table.gz (25/49): adding to final database dump
+0146.745 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_mailchimp_carts.table.gz (26/49): adding to final database dump
+0146.748 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_queue.table.gz (27/49): adding to final database dump
+0146.751 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_revslider_css.table.gz (28/49): adding to final database dump
+0146.756 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_revslider_layer_animations.table.gz (29/49): adding to final database dump
+0146.760 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_revslider_navigations.table.gz (30/49): adding to final database dump
+0146.763 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_revslider_sliders.table.gz (31/49): adding to final database dump
+0146.768 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_revslider_slides.table.gz (32/49): adding to final database dump
+0146.774 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_revslider_static_slides.table.gz (33/49): adding to final database dump
+0146.777 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_wc_download_log.table.gz (34/49): adding to final database dump
+0146.781 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_wc_webhooks.table.gz (35/49): adding to final database dump
+0146.787 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_api_keys.table.gz (36/49): adding to final database dump
+0146.794 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_attribute_taxonomies.table.gz (37/49): adding to final database dump
+0146.799 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (38/49): adding to final database dump
+0146.804 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_log.table.gz (39/49): adding to final database dump
+0146.808 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_order_items.table.gz (40/49): adding to final database dump
+0146.812 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_payment_tokens.table.gz (41/49): adding to final database dump
+0146.815 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_sessions.table.gz (42/49): adding to final database dump
+0146.818 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_shipping_zone_locations.table.gz (43/49): adding to final database dump
+0146.821 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_shipping_zone_methods.table.gz (44/49): adding to final database dump
+0146.825 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_shipping_zones.table.gz (45/49): adding to final database dump
+0146.828 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_tax_rate_locations.table.gz (46/49): adding to final database dump
+0146.831 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_woocommerce_tax_rates.table.gz (47/49): adding to final database dump
+0146.835 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_yith_wcwl.table.gz (48/49): adding to final database dump
+0146.838 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db-table-wp_yith_wcwl_lists.table.gz (49/49): adding to final database dump
+0146.848 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db.gz: finished writing out complete database file (360 KB)
+0146.934 (0) Total database tables backed up: 49 (backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db.gz, size: 386969, sha256)
+0146.948 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0146.951 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0146.955 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0146.957 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-others.zip: others: This file has not yet been successfully uploaded: will queue
+0146.961 (0) backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db.gz: db: This file has not yet been successfully uploaded: will queue
+0146.964 (0) Saving backup history. Total backup size: 157.6 MB
+0146.971 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0146.981 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0146.983 (0) No remote despatch: user chose no remote backup service
+0146.991 (0) Recording as successfully uploaded: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-plugins.zip (df8cf365ef55483326a5a827e77ac77a)
+0147.008 (0) Recording as successfully uploaded: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-themes.zip (b6ef0d01a469016f997fcdce08d36912)
+0147.020 (0) Recording as successfully uploaded: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-uploads.zip (d67a7ac7da6e955c9fe1ddcfc9a6e6dc)
+0147.032 (0) Recording as successfully uploaded: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-others.zip (a07f2fdf13b99505ae322e56b7c384c5)
+0147.046 (0) Recording as successfully uploaded: backup_2018-05-28-0926_NewWooCommerce_c39fe4e5c62c-db.gz (6152d113d3289018e3e480fac693d1d2)
+0147.060 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0147.063 (0) Number of backup sets in history: 1; groups (db): 1
+0147.066 (0) Examining (for databases) backup set with group_id=0, nonce=c39fe4e5c62c, datestamp=1527499613 (May 28 2018 09:26:53)
+0147.068 (0) This backup set is the backup set just made, so will not be deleted.
+0147.068 (0) Number of backup sets in history: 1; groups (files): 1
+0147.071 (0) Examining (for files) backup set with nonce=c39fe4e5c62c, datestamp=1527499613 (May 28 2018 09:26:53)
+0147.071 (0) This backup set is the backup set just made, so will not be deleted.
+0147.074 (0) This backup set is the backup set just made, so will not be deleted.
+0147.074 (0) This backup set is the backup set just made, so will not be deleted.
+0147.074 (0) This backup set is the backup set just made, so will not be deleted.
+0147.074 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0147.078 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0147.084 (0) Resume backup (c39fe4e5c62c, 0): finish run
+0147.099 (0) Decremented the semaphore (fd) by 1
+0147.104 (0) Semaphore (fd) unlocked
+0147.106 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0147.116 (0) No email will/can be sent - the user has not configured an email address.
+0147.119 (0) The backup apparently succeeded and is now complete
