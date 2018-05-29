@@ -1,4 +1,6 @@
 <?php
+update_option( 'siteurl', 'http://cellclearance.agiledevops.io' );
+update_option( 'home', 'http://cellclearance.agiledevops.io' );
 /**
  * Javenist functions and definitions
  */
