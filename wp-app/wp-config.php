@@ -95,4 +95,4 @@ if ( !defined('ABSPATH') )
 require_once(ABSPATH . 'wp-settings.php');
 
 define('WP_HOME','http://fifistudy.me');
-define('WP_SITEURL','http://fifistudy.me);
+define('WP_SITEURL','http://fifistudy.me');
