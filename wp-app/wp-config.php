@@ -94,6 +94,6 @@ if ( !defined('ABSPATH') )
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
 
-// define('WP_HOME','http://cellclearance.agiledevops.io');
-// define('WP_SITEURL','http://cellclearance.agiledevops.io');
+define('WP_HOME','http://cellclearance.agiledevops.io');
+define('WP_SITEURL','http://cellclearance.agiledevops.io');
 // $_SERVER['HTTP_HOST'] = $_SERVER['HTTP_X_FORWARDED_HOST'];
